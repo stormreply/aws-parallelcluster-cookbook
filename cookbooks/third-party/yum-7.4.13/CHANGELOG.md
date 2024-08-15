@@ -154,7 +154,7 @@ Standardise files with files in sous-chefs/repo-management
 - Fixing baseurl to support multiple urls
 - Modify releasever attribute for Amazon to match Amazon's default policy for releasever
 
-## v3.11.0 (2016-06-01)
+## v3.10.1 (2016-06-01)
 
 - Install yum at compile time in the dnf compatibility recipe
 - Add IBM zlinux as a supported platform in the metadata
